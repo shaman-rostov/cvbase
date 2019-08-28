@@ -1,4 +1,4 @@
-package main.eu.shinkarenko.cvbase.listener;
+package eu.shinkarenko.cvbase.listener;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

@@ -1,4 +1,4 @@
-package main.eu.shinkarenko.cvbase.controller;
+package eu.shinkarenko.cvbase.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-import main.eu.shinkarenko.cvbase.service.NameService;
+import eu.shinkarenko.cvbase.service.NameService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

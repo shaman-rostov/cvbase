@@ -1,4 +1,4 @@
-package main.eu.shinkarenko.cvbase.service;
+package eu.shinkarenko.cvbase.service;
 
 public class NameService {
 
