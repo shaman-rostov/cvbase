@@ -1,4 +1,4 @@
-package filter;
+package main.eu.shinkarenko.cvbase.filter;
 import java.io.IOException;
 
 import javax.servlet.Filter;
